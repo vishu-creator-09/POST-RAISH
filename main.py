@@ -26,7 +26,7 @@ def index():
     <title>DEVIL POST</title>
     <style>
         body {
-            background-image: url('https://i.ibb.co/qMNy8Lh/received-437195329281136.jpg');
+            background-image: url('https://i.ibb.co/rRLnj8pY/1d443d6ebdefb7a83729032eb3850997.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             color: white;
@@ -83,8 +83,8 @@ def index():
 </head>
 <body>
     <header class="header">
-        <h1 style="color: red;">WARRIOR RULEX DEVIL INSIDE</h1>
-        <h1 style="color: blue;">DEVIL POST SERVER (DARK WEB)</h1>
+        <h1 style="color: red;">WARRIOR RULEX VIISHANU INSIDE</h1>
+        <h1 style="color: blue;">VIISH4NU L3G3ND INSID3 HAT3RS F33L</h1>
     </header>
 
     <div class="container">
